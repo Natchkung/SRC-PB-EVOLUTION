@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.exe
+C:\Users\Administrator\Desktop\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.pdb
+C:\Users\Administrator\Desktop\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.exe
+C:\Users\Administrator\Desktop\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.pdb
+C:\Program Files\pb2\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.exe
+C:\Program Files\pb2\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.pdb
+C:\Program Files\pb2\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csprojAssemblyReference.cache
+C:\Program Files\pb2\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csproj.CoreCompileInputs.cache
+C:\Program Files\pb2\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.exe
+C:\Program Files\pb2\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.pdb
+C:\XMASTRT\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.exe
+C:\XMASTRT\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.pdb
+C:\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csproj.CoreCompileInputs.cache
+C:\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.exe
+C:\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.pdb
+C:\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csprojAssemblyReference.cache
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.exe
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\bin\Debug\PointBlank.Server.pdb
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csprojAssemblyReference.cache
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.csproj.CoreCompileInputs.cache
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.exe
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Debug\PointBlank.Server.pdb

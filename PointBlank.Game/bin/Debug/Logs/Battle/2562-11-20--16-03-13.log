@@ -1,0 +1,25 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                               POINT BLANK BATTLE                              
+                                                                               
+                                                                               
+_______________________________ 20/11/2562 12:04 _______________________________
+16:03:14 [Info] Server active at 0.0.0.0:40000
+16:03:14 [Info] Synchronize infos to server: True
+16:03:14 [Info] Drops Limit: 0
+16:03:14 [Info] Ammo Limit: False
+16:03:14 [Info] Duration C4: (1s/1s)
+16:03:14 [Warning] File not found: Data/Battle/Maps.xml
+16:03:14 [Warning] File not found: Data/Battle/Charas.xml
+16:03:14 [Warning] File not found: Data/Battle/Exceptions.xml
+16:03:14 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Battle.Data.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Battle.Data.Sql.SqlConnection..ctor() in D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Battle\Data\Sql\SqlConnection.cs:line 20
+   at PointBlank.Battle.Data.Sql.SqlConnection..cctor() in D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Battle\Data\Sql\SqlConnection.cs:line 10
+   --- End of inner exception stack trace ---
+   at PointBlank.Battle.Data.Sql.SqlConnection.getInstance()
+   at PointBlank.Battle.Data.Xml.ServersXml.Load() in D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Battle\Data\Xml\ServersXml.cs:line 34
+16:03:14 [Debug] Active Server. (20/11/62 16:03:14)

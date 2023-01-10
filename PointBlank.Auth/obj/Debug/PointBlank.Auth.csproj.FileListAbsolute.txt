@@ -1,0 +1,239 @@
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\Npgsql.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\System.ValueTuple.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\SharpDX.Mathematics.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\SharpDX.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojResolveAssemblyReference.cache
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\SharpDX.Mathematics.dll
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\SharpDX.dll
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.exe.config
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojResolveAssemblyReference.cache
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\SharpDX.Mathematics.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\SharpDX.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\SharpDX.Mathematics.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\SharpDX.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\Encryption.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\Npgsql.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\SharpDX.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+C:\Users\ken\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\Encryption.dll
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\Npgsql.dll
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\SharpDX.dll
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\SharpDX.Mathematics.dll
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+D:\pb\onlyme\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+D:\pb\onlyme\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+D:\pb\onlyme\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+D:\pb\onlyme\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+D:\pb\onlyme\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+D:\pb\onlyme\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+C:\Users\Administrator\Downloads\Compressed\pb2\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+C:\Users\Newa05\Desktop\pb2\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.exe.config
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojResolveAssemblyReference.cache
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe.config
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe.config
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe.config
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe.config
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe.config
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csprojAssemblyReference.cache
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe.config
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+D:\pb server by nat\zezeze\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe.config
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.exe
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Auth.pdb
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\System.ValueTuple.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.pdb
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Battle.exe.config
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.pdb
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Core.dll.config
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.pdb
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\bin\Debug\PointBlank.Game.exe.config
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.AssemblyReference.cache
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe.config
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CoreCompileInputs.cache
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.csproj.CopyComplete
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.exe
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Debug\PointBlank.Auth.pdb

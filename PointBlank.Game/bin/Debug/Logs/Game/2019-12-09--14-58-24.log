@@ -1,0 +1,15 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                                POINT BLANK GAME                               
+                                                                               
+                                                                               
+_______________________________ 29/11/2019 14:58 _______________________________
+14:58:26 [Info] Text Encode: Thai (Windows)
+14:58:26 [Info] Mode: Public
+14:58:26 [Debug] Active Server. (09/12/19 14:58:26)
+15:04:02 [Warning] PROTOCOL_BATTLE_GIVEUPBATTLE_REQ: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PointBlank.Game.Data.Model.Room.BaseResultGame(TeamResultType winnerTeam, Boolean isBotMode) in D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Game\Data\Model\Room.cs:line 840
+   at PointBlank.Game.Data.Model.Room.CalculateResult(TeamResultType resultType, Boolean isBotMode) in D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Game\Data\Model\Room.cs:line 568
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BATTLE_GIVEUPBATTLE_REQ.LeavePlayerNoBOT_EndBattle(Room room, Account p, Int32 red13, Int32 blue13) in D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Game\Network\ClientPacket\PROTOCOL_BATTLE_GIVEUPBATTLE_REQ.cs:line 311
+   at PointBlank.Game.Network.ClientPacket.PROTOCOL_BATTLE_GIVEUPBATTLE_REQ.run() in D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Game\Network\ClientPacket\PROTOCOL_BATTLE_GIVEUPBATTLE_REQ.cs:line 103

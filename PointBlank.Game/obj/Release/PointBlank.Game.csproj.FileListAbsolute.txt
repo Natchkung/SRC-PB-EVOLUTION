@@ -1,0 +1,3 @@
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Game\obj\Release\PointBlank.Game.csprojAssemblyReference.cache
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Game\obj\Release\PointBlank.Game.Properties.Resources.resources
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Game\obj\Release\PointBlank.Game.csproj.GenerateResource.cache

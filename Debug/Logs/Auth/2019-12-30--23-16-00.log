@@ -1,0 +1,35 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                                POINT BLANK AUTH                               
+                                                                               
+                                                                               
+_______________________________ 29/12/2019 14:46 _______________________________
+23:16:08 [Error] System.IndexOutOfRangeException: Column must be between 0 and 10
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at PointBlank.Core.Managers.Server.ServerConfigSyncer.GenerateConfig(Int32 configId) in C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\Managers\Server\ServerConfigSyncer.cs:line 30
+23:16:09 [Error] Npgsql.PostgresException (0x80004005): 42P01: relation "info_cafe_items" does not exist
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass161_0.<<ReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlConnector.<>c__DisplayClass161_0.<<ReadMessage>g__ReadMessageLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Npgsql.NpgsqlDataReader.<NextResult>d__46.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlDataReader.NextResult()
+   at Npgsql.NpgsqlCommand.<ExecuteDbDataReader>d__100.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at PointBlank.Core.Xml.CafeInventoryXml.Load() in C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\Xml\CafeInventoryXml.cs:line 24
+23:16:10 [Error] System.IndexOutOfRangeException: Column must be between 0 and 10
+   at Npgsql.NpgsqlDefaultDataReader.GetFieldValue[T](Int32 column)
+   at PointBlank.Core.Managers.Server.ServerConfigSyncer.GenerateConfig(Int32 configId) in C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\Managers\Server\ServerConfigSyncer.cs:line 30
+23:16:10 [Info] Text Encode: Thai (Windows)
+23:16:10 [Info] Mode: Public
+23:16:10 [Debug] Active Server. (30/12/19 23:16:10)

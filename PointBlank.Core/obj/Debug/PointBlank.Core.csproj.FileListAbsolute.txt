@@ -1,0 +1,95 @@
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\bin\Debug\Npgsql.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\bin\Debug\System.ValueTuple.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Point Blank Server\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CoreCompileInputs.cache
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\bin\Debug\Npgsql.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Server EVO\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csprojResolveAssemblyReference.cache
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\bin\Debug\Npgsql.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CoreCompileInputs.cache
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+D:\Games\Editor(C#)\Source Sell\Source Point Blank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CoreCompileInputs.cache
+C:\Users\ken\Desktop\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+C:\Users\ken\Desktop\pb2\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+C:\Users\ken\Desktop\pb2\PointBlank.Core\bin\Debug\Npgsql.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ken\Desktop\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+D:\pb\onlyme\pb2\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+D:\pb\onlyme\pb2\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+D:\pb\onlyme\pb2\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+D:\pb\onlyme\pb2\PointBlank.Core\bin\Debug\Npgsql.dll
+D:\pb\onlyme\pb2\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pb\onlyme\pb2\PointBlank.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pb\onlyme\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.csprojAssemblyReference.cache
+D:\pb\onlyme\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CoreCompileInputs.cache
+D:\pb\onlyme\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+D:\pb\onlyme\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+D:\pb\onlyme\pb2\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CoreCompileInputs.cache
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+C:\Users\Newa05\Desktop\PointBlank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Core\obj\Debug\PointBlank.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+C:\Users\Administrator\Desktop\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.pdb
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.csprojAssemblyReference.cache
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.dll.config
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\PointBlank.Core.pdb
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\bin\Debug\System.ValueTuple.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.AssemblyReference.cache
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CoreCompileInputs.cache
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.csproj.CopyComplete
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.dll
+D:\SRC PB EVOLUTION_100%\SRC PB EVOLUTION_100%\PointBlank.Core\obj\Debug\PointBlank.Core.pdb

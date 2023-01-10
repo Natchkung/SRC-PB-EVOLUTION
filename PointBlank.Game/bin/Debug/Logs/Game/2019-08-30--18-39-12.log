@@ -1,0 +1,185 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                                POINT BLANK GAME                               
+                                                                               
+                                                                               
+_______________________________ 30/08/2019 18:36 _______________________________
+18:39:13 [Error] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\pb\onlyme\pb2\PointBlank.Game\bin\Debug\Config\Game.ini'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at PointBlank.Core.ConfigFile.LoadStrings() in D:\pb\onlyme\pb2\PointBlank.Core\ConfigFile.cs:line 30
+18:39:13 [Warning] Parameter failure: Host
+18:39:13 [Warning] Parameter failure: Name
+18:39:13 [Warning] Parameter failure: User
+18:39:13 [Warning] Parameter failure: Pass
+18:39:13 [Warning] Parameter failure: Port
+18:39:13 [Warning] Parameter failure: ServerId
+18:39:13 [Warning] Parameter failure: ConfigId
+18:39:13 [Warning] Parameter failure: GameIp
+18:39:13 [Warning] Parameter failure: GamePort
+18:39:13 [Warning] Parameter failure: SyncPort
+18:39:13 [Warning] Parameter failure: Debug
+18:39:13 [Warning] Parameter failure: Test
+18:39:13 [Warning] Parameter failure: AutoBan
+18:39:13 [Warning] Parameter failure: EncodingPage
+18:39:13 [Warning] Parameter failure: WinCashPerBattle
+18:39:13 [Warning] Parameter failure: ShowCashReceiveWarn
+18:39:13 [Warning] Parameter failure: MinCreateRank
+18:39:13 [Warning] Parameter failure: MinCreatePoint
+18:39:13 [Warning] Parameter failure: MaxClanPoints
+18:39:13 [Warning] Parameter failure: Password
+18:39:13 [Warning] Parameter failure: MaxChannelPlayers
+18:39:13 [Warning] Parameter failure: MaxBattleXP
+18:39:13 [Warning] Parameter failure: MaxBattlePoint
+18:39:13 [Warning] Parameter failure: MaxBattleMY
+18:39:13 [Warning] Parameter failure: UdpType
+18:39:13 [Warning] Parameter failure: MinNickSize
+18:39:13 [Warning] Parameter failure: MaxNickSize
+18:39:13 [Warning] Parameter failure: MinRankVote
+18:39:13 [Warning] Parameter failure: MaxActiveClans
+18:39:13 [Warning] Parameter failure: MaxBattleLatency
+18:39:13 [Warning] Parameter failure: MaxRepeatLatency
+18:39:13 [Warning] Parameter failure: ICafePoint
+18:39:13 [Warning] Parameter failure: ICafeExp
+18:39:13 [Warning] Parameter failure: RuleId
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Xml.BasicInventoryXml.Load() in D:\pb\onlyme\pb2\PointBlank.Core\Xml\BasicInventoryXml.cs:line 18
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Xml.ServersXml.Load() in D:\pb\onlyme\pb2\PointBlank.Core\Xml\ServersXml.cs:line 34
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Game.Data.Xml.ChannelsXml.Load(Int32 serverId) in D:\pb\onlyme\pb2\PointBlank.Game\Data\Xml\ChannelsXml.cs:line 19
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Managers.Events.EventVisitSyncer.GenerateList() in D:\pb\onlyme\pb2\PointBlank.Core\Managers\Events\EventVisitSyncer.cs:line 20
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Managers.Events.EventLoginSyncer.GenerateList() in D:\pb\onlyme\pb2\PointBlank.Core\Managers\Events\EventLoginSyncer.cs:line 18
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Managers.Events.EventMapSyncer.GenerateList() in D:\pb\onlyme\pb2\PointBlank.Core\Managers\Events\EventMapSyncer.cs:line 17
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Managers.Events.EventPlayTimeSyncer.GenerateList() in D:\pb\onlyme\pb2\PointBlank.Core\Managers\Events\EventPlayTimeSyncer.cs:line 20
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Managers.Events.EventQuestSyncer.GenerateList() in D:\pb\onlyme\pb2\PointBlank.Core\Managers\Events\EventQuestSyncer.cs:line 19
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Managers.Events.EventRankUpSyncer.GenerateList() in D:\pb\onlyme\pb2\PointBlank.Core\Managers\Events\EventRankUpSyncer.cs:line 17
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Managers.Events.EventXmasSyncer.GenerateList() in D:\pb\onlyme\pb2\PointBlank.Core\Managers\Events\EventXmasSyncer.cs:line 17
+18:39:13 [Error] File not found: Data/Titles/TitleInfo.xml
+18:39:13 [Error] File not found: Data/Titles/TitleAwards.xml
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Game.Data.Managers.ClanManager.Load() in D:\pb\onlyme\pb2\PointBlank.Game\Data\Managers\ClanManager.cs:line 22
+18:39:13 [Warning] Filter file does not exist.
+18:39:13 [Error] File not found: Data/Missions/AssaultCard.mqf
+18:39:13 [Error] File not found: Data/Missions/Dino_Basic.mqf
+18:39:13 [Error] File not found: Data/Missions/Dino_Intensify.mqf
+18:39:13 [Error] File not found: Data/Missions/TutorialCard_Brazil.mqf
+18:39:13 [Error] File not found: Data/Missions/Dino_Tutorial.mqf
+18:39:13 [Error] File not found: Data/Missions/Field_o.mqf
+18:39:13 [Error] File not found: Data/Missions/SpecialCard.mqf
+18:39:13 [Error] File not found: Data/Missions/InfiltrationCard.mqf
+18:39:13 [Error] File not found: Data/Missions/DefconCard.mqf
+18:39:13 [Error] File not found: Data/Missions/Company_o.mqf
+18:39:13 [Error] File not found: Data/Missions/BackUpCard.mqf
+18:39:13 [Error] File not found: Data/Missions/Commissioned_o.mqf
+18:39:13 [Error] File not found: Data/Missions/EventCard.mqf
+18:39:13 [Error] File not found: Data/Rank/Player.xml
+18:39:13 [Error] File not found: Data/Battle/ServerList.xml
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Xml.RankXml.LoadAwards() in D:\pb\onlyme\pb2\PointBlank.Core\Xml\RankXml.cs:line 105
+18:39:13 [Error] File not found: Data/Rank/Clan.xml
+18:39:13 [Error] File not found: Data/Cards/MissionAwards.xml
+18:39:13 [Error] System.TypeInitializationException: The type initializer for 'PointBlank.Core.Sql.SqlConnection' threw an exception. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Parameter name: value
+Actual value was 0.
+   at Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   at PointBlank.Core.Sql.SqlConnection..ctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 19
+   at PointBlank.Core.Sql.SqlConnection..cctor() in D:\pb\onlyme\pb2\PointBlank.Core\Sql\SqlConnection.cs:line 9
+   --- End of inner exception stack trace ---
+   at PointBlank.Core.Sql.SqlConnection.getInstance()
+   at PointBlank.Core.Xml.MissionsXml.Load() in D:\pb\onlyme\pb2\PointBlank.Core\Xml\MissionsXml.cs:line 18

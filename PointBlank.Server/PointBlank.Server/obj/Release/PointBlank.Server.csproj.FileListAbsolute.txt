@@ -1,0 +1,12 @@
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\bin\Release\PointBlank.Server.exe
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\bin\Release\PointBlank.Server.pdb
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.csprojAssemblyReference.cache
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.csproj.CoreCompileInputs.cache
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.exe
+D:\SRC 240HZ (_____________________)\XMASTRT\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.pdb
+D:\pb server by nat\XDXDXDXDXDXDXDXDXDXDXDXDXDXDXDXDX\SRC PB EVOLUTION_100%\PointBlank.Server\PointBlank.Server\bin\Release\PointBlank.Server.exe
+D:\pb server by nat\XDXDXDXDXDXDXDXDXDXDXDXDXDXDXDXDX\SRC PB EVOLUTION_100%\PointBlank.Server\PointBlank.Server\bin\Release\PointBlank.Server.pdb
+D:\pb server by nat\XDXDXDXDXDXDXDXDXDXDXDXDXDXDXDXDX\SRC PB EVOLUTION_100%\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.csprojAssemblyReference.cache
+D:\pb server by nat\XDXDXDXDXDXDXDXDXDXDXDXDXDXDXDXDX\SRC PB EVOLUTION_100%\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.csproj.CoreCompileInputs.cache
+D:\pb server by nat\XDXDXDXDXDXDXDXDXDXDXDXDXDXDXDXDX\SRC PB EVOLUTION_100%\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.exe
+D:\pb server by nat\XDXDXDXDXDXDXDXDXDXDXDXDXDXDXDXDX\SRC PB EVOLUTION_100%\PointBlank.Server\PointBlank.Server\obj\Release\PointBlank.Server.pdb

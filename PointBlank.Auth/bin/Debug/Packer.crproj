@@ -1,0 +1,18 @@
+<project outputDir="D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug\Confused" baseDir="D:\PointBlank Evolution!!\PointBlank Evolution\PointBlank.Auth\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="maximum">
+    <protection id="anti ildasm" />
+    <protection id="anti tamper" />
+    <protection id="constants" />
+    <protection id="ctrl flow" />
+    <protection id="anti dump" />
+    <protection id="anti debug" />
+    <protection id="invalid metadata" />
+    <protection id="ref proxy" />
+    <protection id="resources" />
+    <protection id="rename" />
+  </rule>
+  <module path="PointBlank.Core.dll" />
+  <module path="PointBlank.Game.exe" />
+  <module path="PointBlank.Auth.exe" />
+  <module path="PointBlank.Battle.exe" />
+</project>

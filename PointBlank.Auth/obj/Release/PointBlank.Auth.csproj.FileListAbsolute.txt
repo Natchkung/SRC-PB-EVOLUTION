@@ -1,0 +1,2 @@
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Release\PointBlank.Auth.csprojAssemblyReference.cache
+C:\Program Files (x86)\pb2-fix\SRC PB EVOLUTION_100%\PointBlank.Auth\obj\Release\PointBlank.Auth.exe.config

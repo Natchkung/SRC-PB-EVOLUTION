@@ -1,0 +1,37 @@
+________________________________________________________________________________
+                                                                               
+                                                                               
+                               POINT BLANK BATTLE                              
+                                                                               
+                                                                               
+_______________________________ 31/12/2562 09:48 _______________________________
+09:37:32 [Info] Server active at 127.0.0.1:40009
+09:37:32 [Info] Synchronize infos to server: True
+09:37:32 [Info] Drops Limit: 25
+09:37:32 [Info] Ammo Limit: False
+09:37:32 [Info] Duration C4: (5.5s/6.5s)
+09:37:32 [Info] Loaded: 55 maps
+09:37:32 [Info] Loaded: 115 charas information
+09:37:32 [Info] Loaded: 20 melee exceptions
+09:37:34 [Error] System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it
+   at Npgsql.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   at Npgsql.NpgsqlConnector.<RawOpen>d__153.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlConnector.<Open>d__149.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.ConnectorPool.<AllocateLong>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Npgsql.NpgsqlConnection.<>c__DisplayClass32_0.<<Open>g__OpenLong|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Npgsql.NpgsqlConnection.Open()
+   at PointBlank.Battle.Data.Xml.ServersXml.Load()
+09:37:34 [Debug] Active Server. (22/09/64 09:37:34)
